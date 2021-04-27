@@ -9,7 +9,7 @@ const Home = () => {
           <FaBars />
         </button>
         <div className="modal-btn">
-          <button>Show Modal</button>
+          <button className="show-modal-btn">SHOW MODAL</button>
         </div>
       </main>
     </>
